@@ -1,3 +1,8 @@
+#ScreenShot with BrowserSync
+Not sure if this is what you wanted exactly with the screenshot
+but I did get the BrowserSync working correctly.
+![BrowserSync Submission](screenshots/BrowserSync.png)
+
 # Project Description
 This project is a to setup WebStorm to work with Bootstrap, SASS(SCSS), BrowserSync, GULP, GitHub Pages, and web templates 
 with partial html files.  When you complete this project, you will be able to build your project with these tools and 
